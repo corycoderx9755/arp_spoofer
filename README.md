@@ -6,17 +6,17 @@ Description :- It is the ARP Spoofer Tool that will spoof both target and router
 
 Disclaimer :- This Tool is only for Educational Purpose Only Don't use it to attack target you don't have permission
 
-Requirements and Usage
+## Requirements and Usage
 
-Clone Repository using following command
+1. Clone Repository using following command
 
-git clone https://github.com/corycoderx9755/arp_spoofer.git
+    git clone https://github.com/corycoderx9755/arp_spoofer.git
 
-Change Directory to file
+2. Change Directory to file
 
-cd arp_spoofer
+    cd arp_spoofer
 
-Requirements are already specified in the requirements.txt (Contains Module for Program to Run) use the following command to to install it
+**Requirements are already specified in the requirements.txt (Contains Module for Program to Run) use the following command to to install it**
 
 command :- pip install -r requirements.txt
 
@@ -26,7 +26,7 @@ The General Usage of Tool is like this
 
 python3 arp_spoofer.py [Options]
 
-options :-
+## options :-
 
 -t/--target [Target Ip to Spoof]
 
